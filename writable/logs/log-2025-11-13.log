@@ -1,0 +1,389 @@
+CRITICAL - 2025-11-13 10:00:38 --> ArgumentCountError: Too few arguments to function App\Controllers\Message::faire_suivi(), 0 passed in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: message/faire_suivi/]
+in APPPATH/Controllers/Message.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Message->faire_suivi()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:22:03 --> ArgumentCountError: Too few arguments to function App\Controllers\Message::faire_suivi(), 0 passed in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: message/faire_suivi/]
+in APPPATH/Controllers/Message.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Message->faire_suivi()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:22:06 --> ArgumentCountError: Too few arguments to function App\Controllers\Message::faire_suivi(), 0 passed in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: message/faire_suivi/]
+in APPPATH/Controllers/Message.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Message->faire_suivi()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:22:09 --> ArgumentCountError: Too few arguments to function App\Controllers\Message::faire_suivi(), 0 passed in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: message/faire_suivi]
+in APPPATH/Controllers/Message.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Message->faire_suivi()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:32:13 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: compte/creer/]
+in APPPATH/Controllers/Compte.php on line 51.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:37:06 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 927.
+ 1 SYSTEMPATH/Model.php(716): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Compte.php(44): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:37:26 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 927.
+ 1 SYSTEMPATH/Model.php(716): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Compte.php(44): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:41:41 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 927.
+ 1 SYSTEMPATH/Model.php(716): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Compte.php(44): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-11-13 10:46:36 --> mysqli_sql_exception: Duplicate entry 'invite48' for key 'cpt_pseudo' in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->creer()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-13 10:46:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite48' for key 'cpt_pseudo'
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:46:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite48' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:46:36 --> [Caused by] mysqli_sql_exception: Duplicate entry 'invite48' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-11-13 10:50:53 --> mysqli_sql_exception: Duplicate entry 'invite78' for key 'cpt_pseudo' in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->creer()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-13 10:50:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite78' for key 'cpt_pseudo'
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:50:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite78' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:50:53 --> [Caused by] mysqli_sql_exception: Duplicate entry 'invite78' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-11-13 10:58:26 --> mysqli_sql_exception: Duplicate entry 'invite100' for key 'cpt_pseudo' in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->creer()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-13 10:58:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite100' for key 'cpt_pseudo'
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:58:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite100' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 10:58:26 --> [Caused by] mysqli_sql_exception: Duplicate entry 'invite100' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-11-13 11:00:17 --> mysqli_sql_exception: Duplicate entry 'invite102' for key 'cpt_pseudo' in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->creer()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-13 11:00:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite102' for key 'cpt_pseudo'
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 11:00:17 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'invite102' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 11:00:17 --> [Caused by] mysqli_sql_exception: Duplicate entry 'invite102' for key 'cpt_pseudo'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(50): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(40): App\Models\Db_model->set_compte()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-13 11:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 11:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 11:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 11:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 22:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 22:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 22:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-13 23:26:03 --> ParseError: Unclosed '{' on line 5
+[Method: POST, Route: compte/creer]
+in APPPATH/Models/Db_model.php on line 52.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Config/Factories.php(297): class_exists()
+ 5 SYSTEMPATH/Config/Factories.php(216): CodeIgniter\Config\Factories::locateClass()
+ 6 SYSTEMPATH/Config/Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance()
+ 7 SYSTEMPATH/Common.php(802): CodeIgniter\Config\Factories::__callStatic()
+ 8 APPPATH/Controllers/Compte.php(24): model()
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+12 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-13 23:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-13 23:54:20 --> mysqli_sql_exception: Unknown column 'pseudo' in 'WHERE' in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Validation/StrictRules/Rules.php(232): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Validation/Validation.php(339): CodeIgniter\Validation\StrictRules\Rules->is_unique()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Validation/Validation.php(204): CodeIgniter\Validation\Validation->processRules()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Controller.php(137): CodeIgniter\Validation\Validation->run()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(28): CodeIgniter\Controller->validate()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->creer()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+CRITICAL - 2025-11-13 23:54:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pseudo' in 'WHERE'
+[Method: POST, Route: compte/creer]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Validation/StrictRules/Rules.php(232): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/Validation/Validation.php(339): CodeIgniter\Validation\StrictRules\Rules->is_unique()
+ 4 SYSTEMPATH/Validation/Validation.php(204): CodeIgniter\Validation\Validation->processRules()
+ 5 SYSTEMPATH/Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 6 APPPATH/Controllers/Compte.php(28): CodeIgniter\Controller->validate()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 23:54:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pseudo' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Validation/StrictRules/Rules.php(232): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/Validation/Validation.php(339): CodeIgniter\Validation\StrictRules\Rules->is_unique()
+ 6 SYSTEMPATH/Validation/Validation.php(204): CodeIgniter\Validation\Validation->processRules()
+ 7 SYSTEMPATH/Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 8 APPPATH/Controllers/Compte.php(28): CodeIgniter\Controller->validate()
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+12 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-13 23:54:20 --> [Caused by] mysqli_sql_exception: Unknown column 'pseudo' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Validation/StrictRules/Rules.php(232): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/Validation/Validation.php(339): CodeIgniter\Validation\StrictRules\Rules->is_unique()
+ 7 SYSTEMPATH/Validation/Validation.php(204): CodeIgniter\Validation\Validation->processRules()
+ 8 SYSTEMPATH/Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 9 APPPATH/Controllers/Compte.php(28): CodeIgniter\Controller->validate()
+10 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->creer()
+11 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+13 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+15 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-13 23:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-13 23:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

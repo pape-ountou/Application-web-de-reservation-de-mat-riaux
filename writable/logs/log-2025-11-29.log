@@ -1,0 +1,638 @@
+INFO - 2025-11-29 10:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 10:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-29 10:58:37 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(141): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 10:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-29 10:58:38 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/deconnecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(427): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->deconnecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:00:14 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(141): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:00:59 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(142): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:01:23 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(142): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:01:53 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(142): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:01:54 --> ParseError: syntax error, unexpected variable "$titre", expecting "," or ";"
+[Method: GET, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(142): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 11:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-29 11:03:43 --> ErrorException: Undefined variable $titre
+[Method: POST, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 APPPATH/Views/connexion/compte_connecter.php(3): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/connexion/compte_connecter.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(136): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:05:38 --> ErrorException: Undefined variable $titre
+[Method: POST, Route: compte/connecter]
+in APPPATH/Views/connexion/compte_connecter.php on line 3.
+ 1 APPPATH/Views/connexion/compte_connecter.php(3): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/connexion/compte_connecter.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(136): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->connecter()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 11:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 11:32:44 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 11:32:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+[Method: GET, Route: compte/supp_ressource/13]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:32:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:32:44 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 11:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 11:36:46 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 11:36:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+[Method: GET, Route: compte/supp_ressource/13]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:36:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:36:46 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 11:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 11:44:09 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 11:44:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+[Method: GET, Route: compte/supp_ressource/13]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:44:09 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 11:44:09 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e21909825_db1`.`t_inscription_ins`, CONSTRAINT `fk_t_compte_cpt_has_t_reservation_rsr_t_reservation_rsr1` FOREIGN KEY (`rsr_id`) REFERENCES `t_reservation_rsr` (`rsr_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(174): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Compte.php(283): App\Models\Db_model->supp_ressources()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->supp_ressource()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 11:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 11:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 12:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 13:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 21:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 21:52:34 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '''  WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1 in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 21:52:34 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '''  WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1
+[Method: POST, Route: reponse/reponse_admin/f01d0f7a8c24b70c40fb]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:52:34 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '''  WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:52:34 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '''  WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 21:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 21:53:10 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 21:53:10 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+[Method: POST, Route: reponse/reponse_admin/f01d0f7a8c24b70c40fb]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:53:10 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:53:10 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 21:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 21:53:40 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 21:53:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+[Method: POST, Route: reponse/reponse_admin/f01d0f7a8c24b70c40fb]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:53:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:53:40 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`e21909825_db1`.`t_message_mes`, CONSTRAINT `fk_t_message_mes_t_compte_cpt1` FOREIGN KEY (`cpt_id`) REFERENCES `t_compte_cpt` (`cpt_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 21:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-29 21:55:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1 in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2025DIFAL3/e21909825/public_html/V1/ci/app/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+#5 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+#6 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#7 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 /home/2025DIFAL3/e21909825/public_html/V1/ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#10 /home/2025DIFAL3/e21909825/public_html/V1/ci/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#11 {main}
+CRITICAL - 2025-11-29 21:55:26 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1
+[Method: POST, Route: reponse/reponse_admin/f01d0f7a8c24b70c40fb]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:55:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 4 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-29 21:55:26 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE mes_code_genere='f01d0f7a8c24b70c40fb'' at line 1
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Models/Db_model.php(156): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 22:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-29 22:03:42 --> Error: Object of class stdClass could not be converted to string
+[Method: POST, Route: reponse/reponse_admin/f01d0f7a8c24b70c40fb]
+in APPPATH/Models/Db_model.php on line 155.
+ 1 APPPATH/Controllers/Reponse.php(65): App\Models\Db_model->ajout_reponse()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Reponse->reponse_admin()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2025-11-29 22:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 22:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-29 23:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

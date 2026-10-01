@@ -1,0 +1,94 @@
+CRITICAL - 2025-11-04 11:52:14 --> ArgumentCountError: Too few arguments to function App\Controllers\Accueil::afficher(), 0 passed in /home/2025DIFAL3/e21909825/public_html/V1/ci/system/CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: /]
+in APPPATH/Controllers/Accueil.php on line 7.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Accueil->afficher()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-04 15:56:56 --> ParseError: syntax error, unexpected token "if"
+[Method: GET, Route: actualite/afficher/1]
+in APPPATH/Models/Db_model.php on line 25.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Config/Factories.php(297): class_exists()
+ 5 SYSTEMPATH/Config/Factories.php(216): CodeIgniter\Config\Factories::locateClass()
+ 6 SYSTEMPATH/Config/Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance()
+ 7 SYSTEMPATH/Common.php(802): CodeIgniter\Config\Factories::__callStatic()
+ 8 APPPATH/Controllers/Actualite.php(13): model()
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Actualite->afficher()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+12 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-04 15:57:04 --> ParseError: syntax error, unexpected token "if"
+[Method: GET, Route: actualite/afficher/0]
+in APPPATH/Models/Db_model.php on line 25.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Config/Factories.php(297): class_exists()
+ 5 SYSTEMPATH/Config/Factories.php(216): CodeIgniter\Config\Factories::locateClass()
+ 6 SYSTEMPATH/Config/Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance()
+ 7 SYSTEMPATH/Common.php(802): CodeIgniter\Config\Factories::__callStatic()
+ 8 APPPATH/Controllers/Actualite.php(13): model()
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Actualite->afficher()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+12 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-04 16:13:21 --> ErrorException: Undefined variable $resultat
+[Method: GET, Route: compte/lister]
+in APPPATH/Models/Db_model.php on line 21.
+ 1 APPPATH/Models/Db_model.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(16): App\Models\Db_model->get_number_compte()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->lister()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-04 16:13:51 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+[Method: GET, Route: compte/lister]
+in APPPATH/Views/affichage_comptes.php on line 13.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Compte.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->lister()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-04 16:14:16 --> ErrorException: Undefined property: stdClass::$total
+[Method: GET, Route: compte/lister]
+in APPPATH/Views/affichage_comptes.php on line 19.
+ 1 APPPATH/Views/affichage_comptes.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_comptes.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->lister()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-04 16:15:08 --> ErrorException: Undefined property: stdClass::$total
+[Method: GET, Route: compte/lister]
+in APPPATH/Views/affichage_comptes.php on line 19.
+ 1 APPPATH/Views/affichage_comptes.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_comptes.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Compte->lister()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

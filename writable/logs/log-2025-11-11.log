@@ -1,0 +1,108 @@
+CRITICAL - 2025-11-11 01:05:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "View/menu_visiteur.php"
+[Method: GET, Route: visiteur/afficher]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Visiteur.php(10): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:06:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "../View/menu_visiteur.php"
+[Method: GET, Route: visiteur/afficher]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Visiteur.php(10): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:13:26 --> ErrorException: Undefined variable $titre
+[Method: GET, Route: visiteur/afficher]
+in APPPATH/Views/affichage_accueil.php on line 67.
+ 1 APPPATH/Views/affichage_accueil.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_accueil.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Visiteur.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:14:28 --> ErrorException: Undefined variable $titre
+[Method: GET, Route: visiteur/afficher]
+in APPPATH/Views/affichage_accueil.php on line 67.
+ 1 APPPATH/Views/affichage_accueil.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_accueil.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Visiteur.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:15:08 --> ErrorException: Undefined variable $titre
+[Method: GET, Route: visiteur/afficher]
+in APPPATH/Views/affichage_accueil.php on line 67.
+ 1 APPPATH/Views/affichage_accueil.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_accueil.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Visiteur.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:16:30 --> ErrorException: Undefined variable $titre
+[Method: GET, Route: visiteur/afficher]
+in APPPATH/Views/affichage_accueil.php on line 67.
+ 1 APPPATH/Views/affichage_accueil.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_accueil.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Visiteur.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:18:38 --> ErrorException: Undefined variable $titre
+[Method: GET, Route: visiteur/afficher]
+in APPPATH/Views/affichage_accueil.php on line 67.
+ 1 APPPATH/Views/affichage_accueil.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/affichage_accueil.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Visiteur.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-11-11 01:28:16 --> ErrorException: Undefined variable $titre
+[Method: GET, Route: visiteur/afficher]
+in APPPATH/Views/menu_visiteur.php on line 74.
+ 1 APPPATH/Views/menu_visiteur.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/2025DIFAL3/e21909825/public_html/V1/ci/app/Views/menu_visiteur.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Visiteur.php(11): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Visiteur->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
